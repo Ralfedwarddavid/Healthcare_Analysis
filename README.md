@@ -18,7 +18,6 @@ These observations provide a snapshot of the health status within the analyzed d
 
 ## Technologies Used
 
-* [List the technologies you used.  Examples:]
 * Python
 * Pandas
 * NumPy
